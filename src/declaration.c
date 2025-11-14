@@ -23,5 +23,5 @@ void print_declaration()
            "XXX\n"
            "4\n"
            "XXX\n"
-           "Date: (insert the date when you submit your group project)\n");
+           "Date: (insert the date when you submit your group project)\n\n\n");
 }
